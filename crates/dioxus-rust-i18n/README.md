@@ -38,13 +38,6 @@ fn App() -> Element {
 
 See [docs.rs](https://docs.rs/dioxus-rust-i18n) for full API documentation.
 
-## Crates
-
-| Crate | Description |
-|-------|-------------|
-| [`dioxus-rust-i18n`](https://crates.io/crates/dioxus-rust-i18n) | Main crate for Dioxus apps |
-| [`dioxus-rust-i18n-macro`](https://crates.io/crates/dioxus-rust-i18n-macro) | Procedural macros used by the main crate |
-
 ## License
 
 [MIT](../../LICENSE). Made with ❤️ by [Ray](https://github.com/so1ve)
