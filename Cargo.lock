@@ -537,7 +537,7 @@ dependencies = [
 
 [[package]]
 name = "dioxus-rust-i18n"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "dioxus",
  "dioxus-rust-i18n-macro",
@@ -549,7 +549,7 @@ dependencies = [
 
 [[package]]
 name = "dioxus-rust-i18n-examples"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "dioxus",
  "dioxus-rust-i18n",
@@ -558,7 +558,7 @@ dependencies = [
 
 [[package]]
 name = "dioxus-rust-i18n-macro"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "proc-macro2",
  "quote",
