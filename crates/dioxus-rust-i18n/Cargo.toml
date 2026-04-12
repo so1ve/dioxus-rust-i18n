@@ -1,0 +1,18 @@
+[package]
+name = "dioxus-rust-i18n"
+description = "rust-i18n bindings for Dioxus"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+dioxus.workspace = true
+dioxus-rust-i18n-macro.workspace = true
+rust-i18n.workspace = true
+thiserror.workspace = true
+
+[dev-dependencies]
+futures-util.workspace = true
+trybuild.workspace = true

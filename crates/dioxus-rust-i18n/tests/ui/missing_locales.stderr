@@ -1,0 +1,5 @@
+error: locale path `$WORKSPACE/target/tests/trybuild/dioxus-rust-i18n/tests/fixtures/does-not-exist` does not exist
+ --> tests/ui/missing_locales.rs:1:25
+  |
+1 | dioxus_rust_i18n::i18n!("tests/fixtures/does-not-exist", fallback = ["en"]);
+  |                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

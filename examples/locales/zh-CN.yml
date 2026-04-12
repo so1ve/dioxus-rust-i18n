@@ -1,0 +1,2 @@
+welcome: 来自 metadata 示例的你好
+hello_user: 你好，%{name}！

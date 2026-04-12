@@ -1,0 +1,7 @@
+_version: 2
+welcome:
+  en: Hello from v2
+  zh-CN: 来自 v2 的你好
+welcome_user:
+  en: Hello, %{name}!
+  zh-CN: 你好，%{name}！

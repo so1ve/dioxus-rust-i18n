@@ -1,0 +1,2 @@
+welcome: Hello from metadata example
+hello_user: Hello, %{name}!

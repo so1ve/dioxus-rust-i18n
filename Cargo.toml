@@ -1,0 +1,22 @@
+[workspace]
+resolver = "3"
+members = ["crates/*", "examples"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+authors = ["Ray <i@mk1.io>"]
+license = "MIT"
+repository = "https://github.com/so1ve/dioxus-rust-i18n"
+
+[workspace.dependencies]
+dioxus = "0.7.4"
+dioxus-rust-i18n = { path = "crates/dioxus-rust-i18n", version = "0.1" }
+dioxus-rust-i18n-macro = { path = "crates/dioxus-rust-i18n-macro", version = "0.1" }
+futures-util = "0.3"
+proc-macro2 = "1"
+quote = "1"
+rust-i18n = "4.0"
+syn = "2"
+thiserror = "2"
+trybuild = "1.0"
